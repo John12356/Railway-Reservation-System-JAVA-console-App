@@ -23,11 +23,11 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/John12356/Bus-Reservation-System-JAVA-console-App.git
+   git clone https://github.com/John12356/Railway-Reservation-System-JAVA-console-App.git
 
 ## How to run
 
-- Copy the GitHub URL of the repository to the clipboard (https://github.com/John12356/Bus-Reservation-System-JAVA-console-App)
+- Copy the GitHub URL of the repository to the clipboard (https://github.com/John12356/Railway-Reservation-System-JAVA-console-App)
 - Open Eclipse and choose Import –> Projects from Git (with smart import)
   
 ![smart-import-1](https://github.com/John12356/Bus-Reservation-System-JAVA-console-App/assets/91779049/431b2f24-5a00-4062-8e43-6026347818e5)
