@@ -19,6 +19,12 @@ Make sure you have the following installed on your machine:
 - **Cancel Reservation:** Users can cancel their existing reservations.
 - **Display Train Layout:** The application displays the layout and availability of seats on a train.
 
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/John12356/Bus-Reservation-System-JAVA-console-App.git
+
 ## How to run
 
 - Copy the GitHub URL of the repository to the clipboard (https://github.com/John12356/Bus-Reservation-System-JAVA-console-App)
